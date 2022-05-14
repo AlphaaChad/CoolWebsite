@@ -1,0 +1,18 @@
+body {
+	font-family: sans-serif;
+}
+
+img {
+	border-radius: 15px;
+}
+
+.container {
+	position: absolute;
+	transform: translate(-50%,-50%);
+	top: 50%;
+	left: 50%;
+	padding: 1.5rem 2rem;
+	box-shadow: rgba(0, 0, 0, 0.15) 0px 8px 16px 0px;
+	border-radius: 15px;
+	text-align: center;
+}
